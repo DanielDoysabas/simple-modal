@@ -8,7 +8,6 @@ Creating simple modal
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -19,7 +18,7 @@ Creating simple modal
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://danieldoysabas.github.io/qr-code-component/)
+- Live Site URL: [Add live site URL here](https://danieldoysabas.github.io/simple-modal/)
 
 ## My process
 
@@ -28,10 +27,6 @@ Creating simple modal
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-### What I learned
-
-I learn Flexbox and cdn font style google api
 
 ## Author
 
